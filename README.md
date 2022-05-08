@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohit, Data Scientist 👨‍💻!
+- 👋 Hi, I’m Mohit, Data Scientist 👨‍💻, B.Sc Computer Science Graduate 
 - 👀 I’m interested in learning more about field and gain more knowledge.
 - ✔️ Data Scientist | Machine Learning Engineer
 - 🤝 I’m looking to collaborate with other content creators and developers
