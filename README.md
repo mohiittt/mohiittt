@@ -9,7 +9,7 @@
 ---
 ## Social Links
 
-[GitHub](https://github.com/mohiittt) | [LinkedIn](https://www.linkedin.com/in/mohittt-p/) | [Twitter](https://twitter.com/mohittt_p/)
+[GitHub](https://github.com/mohiittt) | [LinkedIn](https://www.linkedin.com/in/mohittt-p/) | [Twitter](https://twitter.com/mohittt_p/) | [Codepen](https://codepen.io/mohittt_p)
 
 ---
 
@@ -51,7 +51,7 @@ A highly motivated and experienced frontend developer with a proven track record
 - Streamlined data processing workflows, optimizing efficiency and scalability.
 
 **Data Science Intern**  
-[Report Prime](https://aivariant.com/) | Mumbai | Jan 2022 - July 2022
+[AI Variant](https://aivariant.com/) | Mumbai | Jan 2022 - July 2022
 - Utilized NLP and machine learning techniques in various projects, including Resume Classification and Water Portability, demonstrating proficiency in model building and prediction algorithms.
 - Collaborated with team members to develop and deploy APIs for user interfaces using Flask in Python, enhancing project functionality and accessibility.
 - Gained practical experience in data science concepts and methodologies, contributing to the development and implementation of innovative solutions.
