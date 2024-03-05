@@ -9,7 +9,7 @@
 ---
 ## Social Links
 
-[GitHub](https://github.com/mohiittt) | [LinkedIn](https://www.linkedin.com/in/mohittt-p/) | [Twitter](https://twitter.com/mohittt_p/) | [Codepen](https://codepen.io/mohittt_p)
+[Portfolio](https://mohitp-portfolio.netlify.app/)| [GitHub](https://github.com/mohiittt) | [LinkedIn](https://www.linkedin.com/in/mohittt-p/) | [Twitter](https://twitter.com/mohittt_p/) | [Codepen](https://codepen.io/mohittt_p)
 
 ---
 
