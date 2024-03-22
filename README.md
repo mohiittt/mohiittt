@@ -1,5 +1,5 @@
-# MOHIT PATIL
-## Front-End Developer
+<h1 align="center">Hi 👋, I'm Mohit</h1>
+<h3 align="center">Front end Developer</h3>
 
 ### Contact
 - 📧 Email: mohitpatil.np@gmail.com
@@ -7,14 +7,14 @@
 - 📍 Location: Mumbai, India
 
 ---
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/mohittt_p"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/mohittt_p
+" /></a></p><br><br>
+
+
 ## Social Links
 
 [Portfolio](https://mohitp-portfolio.netlify.app/) | [GitHub](https://github.com/mohiittt) | [LinkedIn](https://www.linkedin.com/in/mohittt-p/) | [Twitter](https://twitter.com/mohittt_p/) | [Codepen](https://codepen.io/mohittt_p)
-
----
-
-### Career Objective
-A highly motivated and experienced frontend developer with a proven track record of creating responsive web applications, with a strong foundation in data science, dedicated to crafting captivating user interfaces and seamless digital experiences. Proficient in HTML, CSS, JavaScript, Bootstrap, and React JS, I bring a blend of creativity and technical acumen to every project. With expertise in front-end technologies and a knack for user-centric design, I'm passionate about leveraging innovative solutions to elevate user interactions and drive business success. Seeking opportunities to contribute to forward-thinking teams and create visually stunning, user-friendly applications that leave a lasting impression.
 
 ---
 
