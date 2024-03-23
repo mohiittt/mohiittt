@@ -3,7 +3,7 @@
 
 ### Contact
 - 📧 Email: mohitpatil.np@gmail.com
-- 📞 Phone: +91 8169780171
+- 📞 Phone: +91-8169780171
 - 📍 Location: Mumbai, India
 
 ---
@@ -18,18 +18,6 @@
 
 ---
 
-### Education
-- **Bachelor of Science [Computer Science]**
-  - Mumbai University
-  - July 2018 – June 2021
-  - CGPA: 8.41
-
-- **Data Science Certification**
-  - ExcelR Institute, Mumbai
-  - Oct 2021 – Mar 2022
-
----
-
 ### Tech-Stack
 - **Programming Languages:** JavaScript | Python | HTML | CSS
 - **Version Control:** Git
@@ -41,22 +29,7 @@
 
 ---
 
-### Experience
-**Data Analyst**  
-[Report Prime](https://www.reportprime.com/) | Mumbai | Sept 2022 - Dec 2023
-- Analyzed extensive market datasets using advanced analytics and machine learning techniques.
-- Developed predictive models to enhance market prediction accuracy.
-- Created visually appealing dashboards using PowerBi.
-- Collaborated cross-functionally to translate business requirements into data-driven solutions.
-- Streamlined data processing workflows, optimizing efficiency and scalability.
-
-**Data Science Intern**  
-[AI Variant](https://aivariant.com/) | Mumbai | Jan 2022 - July 2022
-- Utilized NLP and machine learning techniques in various projects, including Resume Classification and Water Portability, demonstrating proficiency in model building and prediction algorithms.
-- Collaborated with team members to develop and deploy APIs for user interfaces using Flask in Python, enhancing project functionality and accessibility.
-- Gained practical experience in data science concepts and methodologies, contributing to the development and implementation of innovative solutions.
-- Worked on a project focused on developing an AI model using deep learning.
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mohiittt" alt="mohiittt" /></p>
 ---
 
 
