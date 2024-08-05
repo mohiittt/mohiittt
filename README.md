@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohit</h1>
-<h3 align="center">Front end Developer</h3>
+<h3 align="center">Data Analyst | Business Analyst | Data Scientist </h3>
 
 ### Contact
 - 📧 Email: mohitpatil.np@gmail.com
@@ -20,17 +20,15 @@
 
 ### Tech-Stack
 - **Programming Languages:** JavaScript | Python | HTML | CSS
+- **Tools:** PowerBi | Tableau | Excel | 
 - **Version Control:** Git
-- **Libraries/Frameworks:** React JS | Node JS | Tailwind | Bootstrap | Flask
-- **Databases:** MySQL | PostgreSQL
-- **Tools:** Canva | PowerBi | Tableau
-- **Cloud Platform:** AWS EC2
+- **Libraries:** Pandas | Numpy | Matplotlib | Seaborn | Pivot Table
+- **Frameworks:** React JS | Node JS | Tailwind | Bootstrap | Flask
+- **Databases:** SQL | MongoDB | PostgreSQL
 - **Soft Skills:** Teamwork, Problem-solving, Communication, Time Management
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=mohiittt" alt="mohiittt" /></p>
----
 
 
 
